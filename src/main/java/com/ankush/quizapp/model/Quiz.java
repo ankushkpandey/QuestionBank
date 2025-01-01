@@ -34,4 +34,7 @@ public class Quiz {
         this.questions = question;
     }
 
+    public List<Question> getQuestions() {
+        return questions;
+    }
 }
